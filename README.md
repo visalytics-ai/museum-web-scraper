@@ -1,9 +1,8 @@
-# museum-web-scraper
+# New York Metropolitan Museum Web Scraper
 This project scrapes the Met Museums website for images and descriptions of swords to build a database for a machine learning algorithm to identify the place and decade of origin of swords based on construction and stylistic traits. This scraper captures details not in the Met API. Check this space for updates on the machine learning progress.
 
 ______________
-# Museum Sword Corpus Scraper
-
+##  Details
 A scalable Python-based data pipeline for extracting structured sword metadata and imagery from major museum collections.
 
 This project was built to construct a research-grade dataset of swords from institutional museum catalogs (beginning with the Metropolitan Museum of Art). It integrates API access, browser automation, DOM parsing, data cleaning, image management, and large-batch processing into a resilient scraping framework.
